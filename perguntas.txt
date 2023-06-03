@@ -1,0 +1,49 @@
+Qual é uma das principais características do PHP?
+a) É uma linguagem orientada a objetos.
+b) É uma linguagem compilada.
+c) É uma linguagem exclusiva para desenvolvimento web.
+
+Qual é a função do arquivo "php.ini" no PHP?
+a) Configurar as opções de configuração do PHP.
+b) Definir os estilos de formatação para o código PHP.
+c) Armazenar os dados de sessão dos usuários.
+
+Qual é a forma correta de iniciar uma variável em PHP?
+a) Usando o caractere "$" seguido pelo nome da variável.
+b) Utilizando a palavra-chave "var" antes do nome da variável.
+c) Atribuindo um valor à variável antes de utilizá-la.
+
+O que o acrônimo "PHP" significa?
+a) Hypertext Preprocessor.
+b) Personal Home Page.
+c) Private Hypertext Parser.
+
+Qual função do PHP é usada para exibir informações na tela durante a execução do programa?
+a) echo.
+b) print.
+c) console.log.
+
+Qual símbolo é usado para concatenar strings em PHP?
+a) O ponto (.)
+b) O sinal de adição (+)
+c) A vírgula (,)
+
+Qual é a função do operador "==" em PHP?
+a) Comparar se dois valores são iguais.
+b) Atribuir um valor a uma variável.
+c) Verificar se um valor é maior que outro.
+
+Qual função é usada para incluir o conteúdo de um arquivo PHP em outro arquivo PHP?
+a) include.
+b) require.
+c) import.
+
+Como se declara uma constante em PHP?
+a) Usando a função "define()" seguida do nome da constante e seu valor.
+b) Atribuindo um valor a uma variável e definindo-a como constante.
+c) Utilizando a palavra-chave "constant" antes do nome da constante.
+
+Qual é a extensão de arquivo padrão para um arquivo PHP?
+a) .php.
+b) .html.
+c) .py.
